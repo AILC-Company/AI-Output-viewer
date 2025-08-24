@@ -67,3 +67,11 @@ This project is licensed under the **GNU LESSER GENERAL PUBLIC LICENSE Version 2
 Developed by **Arman Sadeghi**  
 
 ---
+
+## Style
+
+<img width="1165" height="1041" alt="Screenshot 2025-08-24 150246" src="https://github.com/user-attachments/assets/9f5e3a21-682f-4fef-ab85-e70f7a33d6ad" />
+
+<img width="1161" height="1276" alt="Screenshot 2025-08-24 150922" src="https://github.com/user-attachments/assets/021e30b6-ab9d-45aa-96e6-30aabf2de0ca" />
+
+---
