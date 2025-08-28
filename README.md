@@ -3,6 +3,10 @@
 **AIOP** is a lightweight Windows application designed to handle and process **`.aiop` files** seamlessly.  
 It integrates directly with Windows so you can double-click any `.aiop` file to open it with AIOP by default.
 
+## Version
+
+> ```1.0.0.0```
+
 ---
 
 ## ✨ Features
