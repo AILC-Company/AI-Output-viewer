@@ -29,9 +29,6 @@ It integrates directly with Windows so you can double-click any `.aiop` file to 
 - Double-click a `.aiop` file in Windows Explorer.  
 - Or, right-click → *Open With* → **AI Operations Processor (AIOP)**.  
 
-### Drag & Drop
-- Drag a `.aiop` file onto the AIOP window to open it.  
-
 ---
 
 ## 📂 Supported File Format
